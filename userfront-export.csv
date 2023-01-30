@@ -1,0 +1,5 @@
+userId,mode,userUuid,name,email,phoneNumber,isConfirmed,username,image,locked,data,isMfaRequired,createdAt
+4,live,"""b3cf2615-11bf-4755-b17b-c86b33e7f6af""","""Unconfirmed User""","""unconfirmed@example.com""","""""",false,"""unconfirmed""","""https://res.cloudinary.com/component/image/upload/avatars/avatar-plain-2.png""",false,{},false,"""2023-01-08T15:52:36.419Z"""
+3,live,"""e7da7598-d86e-45ff-8151-cec9b442909d""","""Viewer User""","""viewer@example.com""","""""",true,"""viewer""","""https://res.cloudinary.com/component/image/upload/avatars/avatar-plain-8.png""",false,{},false,"""2023-01-08T15:52:36.304Z"""
+2,live,"""5d4282a6-f95a-4ad5-b59e-d2f49a5e87fe""","""Member User""","""member@example.com""","""""",true,"""member""","""https://res.cloudinary.com/component/image/upload/avatars/avatar-plain-7.png""",false,{},false,"""2023-01-08T15:52:36.193Z"""
+1,live,"""cd9d0ee4-d480-4da6-ae6f-8575b04139a8""","""Admin User""","""admin@example.com""","""""",true,"""admin""","""https://res.cloudinary.com/component/image/upload/avatars/avatar-plain-1.png""",false,{},false,"""2023-01-08T15:52:36.067Z"""
